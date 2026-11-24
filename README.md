@@ -1,4 +1,4 @@
-# exocad-haz-rl-kname: Build Windows EXE
+name: Build Windows EXE
 
 on:
   workflow_dispatch:
